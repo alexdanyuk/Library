@@ -1,0 +1,12 @@
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.deps.json
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.runtimeconfig.json
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.runtimeconfig.dev.json
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.dll
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/EncryptionApp.pdb
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.csproj.CoreCompileInputs.cache
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.AssemblyInfoInputs.cache
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.AssemblyInfo.cs
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.dll
+/Users/alexdanyuk/Desktop/Library/EncryptionApp/obj/Debug/netcoreapp2.0/EncryptionApp.pdb

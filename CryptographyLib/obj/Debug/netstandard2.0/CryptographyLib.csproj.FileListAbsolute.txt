@@ -1,0 +1,8 @@
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.deps.json
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.dll
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.pdb
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csproj.CoreCompileInputs.cache
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfoInputs.cache
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfo.cs
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.dll
+/Users/alexdanyuk/Desktop/Library/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.pdb
